@@ -2,29 +2,27 @@
 
 ## Log in 
 
-![Capture](https://github.com/user-attachments/assets/0f8f0850-07e3-4ac6-80de-3a2ba93b6986)
+![Screenshot 2024-11-10 180424](https://github.com/user-attachments/assets/cbb5a4f3-0bab-49f5-93e0-627ad4a913eb)
 
 ## Home
 
-![Capture1](https://github.com/user-attachments/assets/be65de26-baf5-45fe-ae7e-2bbec4d5e5a1)
+![Screenshot 2024-11-10 180015](https://github.com/user-attachments/assets/34a1a29c-0370-43be-a16e-1226ad14b68e)
 
 ## Change Password
 
-![Capture2](https://github.com/user-attachments/assets/b9cd40a1-52b0-405f-8672-6f2bbfd7860f)
+![Screenshot 2024-11-10 180032](https://github.com/user-attachments/assets/43f584e9-f90c-46ea-a684-7f0da70caf1b)
 
 ## Account List
 
-![Capture3](https://github.com/user-attachments/assets/b798e2ea-ecb8-4108-b86a-84862c479bd5)
+![Screenshot 2024-11-10 180131](https://github.com/user-attachments/assets/e99b954e-2cf9-42a5-b9e8-e1826ac713d7)
 
 ## Account Form
 
-![Capture4](https://github.com/user-attachments/assets/8d7ad548-136d-437b-907a-d0c4e14a53bb)
+![Screenshot 2024-11-10 180154](https://github.com/user-attachments/assets/f3ca467b-53f2-4d10-bf33-5d8c19dbae03)
 
 ## Dompetku
 
-![Capture5](https://github.com/user-attachments/assets/2ecdac42-3cd5-4479-8d1b-8ea800f14ca6)
-
-file Back End ada di https://github.com/irsyaan/final-task-golang
+![Screenshot 2024-11-10 180406](https://github.com/user-attachments/assets/4841cf27-854b-4f98-b2c1-e3e11d4cb64d)
 
 
 
