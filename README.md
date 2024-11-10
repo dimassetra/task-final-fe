@@ -20,7 +20,7 @@
 
 ![Screenshot 2024-11-10 180154](https://github.com/user-attachments/assets/f3ca467b-53f2-4d10-bf33-5d8c19dbae03)
 
-## Dompetku
+## Dompetku v2
 
 ![Screenshot 2024-11-10 180406](https://github.com/user-attachments/assets/4841cf27-854b-4f98-b2c1-e3e11d4cb64d)
 
